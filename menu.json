@@ -9,15 +9,18 @@
     "2": "Stergere angajat",
     "3": "Modificare calificare",
     "4": "Vizualizare lista angajati",
-    "5": "Exit"
+    "5": "Exit",
+    "6": "Logout"
   },
   "magazioner": {
     "1": "Adauga materie prima",
     "2": "Vizualizare stock",
-    "3": "Exit"
+    "3": "Exit",
+    "4": "Logout"
   },
   "operator": {
     "1": "Creare produs",
-    "2": "Exit"
+    "2": "Exit",
+    "3": "Logout"
   }
 }

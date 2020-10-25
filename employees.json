@@ -1,66 +1,66 @@
 {
-    "em": [
-        {
-            "userId": 9822,
-            "name": "Daniel",
-            "surname": "Sulcina",
-            "telephone": "0758585858",
-            "functie": "manager"
-        },
-        {
-            "userId": 8654,
-            "name": "Stefan",
-            "surname": "Mihai",
-            "telephone": "0756754433",
-            "functie": "gestionar"
-        },
-        {
-            "userId": 8656,
-            "name": "Ioan",
-            "surname": "Popescu",
-            "telephone": "0756754573",
-            "functie": "operator",
-            "calificare": "electrician"
-        },
-        {
-            "userId": 8659,
-            "name": "Florin",
-            "surname": "Ionescu",
-            "telephone": "0756754455",
-            "functie": "operator",
-            "calificare": "electrician"
-        },
-        {
-            "userId": 8658,
-            "name": "Andrei",
-            "surname": "Roman",
-            "telephone": "0756754433",
-            "functie": "operator",
-            "calificare": "frigotehnist"
-        },
-        {
-            "userId": 1411,
-            "name": "Andra",
-            "surname": "Boicu",
-            "telephone": "0711111111",
-            "functie": "operator",
-            "calificare": "electrician"
-        },
-        {
-            "userId": 7777,
-            "name": "Victor",
-            "surname": "Slavici",
-            "telephone": "07777777777",
-            "functie": "operator",
-            "calificare": "electrician"
-        },
-        {
-            "userId": 9999,
-            "name": "Vlad",
-            "surname": "Mihai",
-            "telephone": "075624136",
-            "functie": "operator",
-            "calificare": "electrician"
-        }
-    ]
+  "em": [
+    {
+      "userId": 9822,
+      "name": "Daniel",
+      "surname": "Sulcina",
+      "telephone": "0758585858",
+      "functie": "manager"
+    },
+    {
+      "userId": 8654,
+      "name": "Stefan",
+      "surname": "Mihai",
+      "telephone": "0756754433",
+      "functie": "gestionar"
+    },
+    {
+      "userId": 8656,
+      "name": "Ioan",
+      "surname": "Popescu",
+      "telephone": "0756754573",
+      "functie": "operator",
+      "calificare": "instalator"
+    },
+    {
+      "userId": 8659,
+      "name": "Florin",
+      "surname": "Ionescu",
+      "telephone": "0756754455",
+      "functie": "operator",
+      "calificare": "electrician"
+    },
+    {
+      "userId": 8658,
+      "name": "Andrei",
+      "surname": "Roman",
+      "telephone": "0756754433",
+      "functie": "operator",
+      "calificare": "frigotehnist"
+    },
+    {
+      "userId": 1411,
+      "name": "Andra",
+      "surname": "Boicu",
+      "telephone": "0711111111",
+      "functie": "operator",
+      "calificare": "electrician"
+    },
+    {
+      "userId": 7777,
+      "name": "Victor",
+      "surname": "Slavici",
+      "telephone": "07777777777",
+      "functie": "operator",
+      "calificare": "frigotehnist"
+    },
+    {
+      "userId": 9999,
+      "name": "Vlad",
+      "surname": "Mihai",
+      "telephone": "075624136",
+      "functie": "operator",
+      "calificare": "instalator"
+    }
+  ]
 }
