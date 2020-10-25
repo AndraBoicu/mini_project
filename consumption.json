@@ -1,0 +1,13 @@
+{
+  "electrician": {
+    "pcb": 2,
+    "electrice": 5
+  },
+  "frigotehnist": {
+    "conducte": 4
+  },
+  "instalator": {
+    "carcasa": 1,
+    "sticla": 3
+  }
+}

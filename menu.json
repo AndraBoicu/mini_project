@@ -1,0 +1,23 @@
+{
+  "default_menu": {
+    "1": "Bun venit in pagina de logare!",
+    "2": "info: (9822 - manager), (8654 - magazioner)",
+    "3": "Introduceti id-ul dumneavoastra:"
+  },
+  "manager": {
+    "1": "Adaugare angajat",
+    "2": "Stergere angajat",
+    "3": "Modificare calificare",
+    "4": "Vizualizare lista angajati",
+    "5": "Exit"
+  },
+  "magazioner": {
+    "1": "Adauga materie prima",
+    "2": "Vizualizare stock",
+    "3": "Exit"
+  },
+  "operator": {
+    "1": "Creare produs",
+    "2": "Exit"
+  }
+}
